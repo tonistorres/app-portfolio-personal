@@ -22,14 +22,44 @@ LISTREMOTEPROJECT(){
     git remote -v
 }
 
-MAIN(){
-echo "$MENU"    
-LISTREMOTEPROJECT
-echo "Para terminar a execução do comando pressione ENTER"
-heroku create -b mars/create-react-app
-git remote -v
+CREATEAPP(){
+# https://stackabuse.com/how-to-deploy-a-react-app-to-heroku/    
+heroku create -a app-tonis-torres
+}
+
+# CREATEAPP
+
+REGISTERHEROKU(){
+# E, em seguida, registre o aplicativo que criamos anteriormente no Heroku 
+#como o repositório remoto para o local que inicializamos na etapa anterior:
+heroku git:remote -a app-tonis-torres
+}
+
+# REGISTERHEROKU
+
+
+
+ADDBUILDPACK(){
+    # adicionar o buildpack do React:
+    heroku buildpacks:set mars/create-react-app
+}
+
+# ADDBUILDPACK
+
+PUSHREPOHEROKU(){
 git push heroku master
 }
 
-MAIN
+PUSHREPOHEROKU
+
+
+MAIN(){
+echo "$MENU"    
+LISTREMOTEPROJECT
+CREATEAPP
+REGISTERHEROKU
+
+
+}
+
 
