@@ -1,0 +1,8 @@
+
+.lodad-main{
+    display: flex;
+    background-color: #0E111F;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;    
+}

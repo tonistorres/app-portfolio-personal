@@ -1,0 +1,67 @@
+.list-group {
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.img-measurements {
+    height: 42vh;
+    width: 65%;
+border-radius: 50%;
+
+}
+
+
+.youtube-measurements {
+    height: 42vh;
+    width: 99%;
+    border: 1px solid black;
+}
+
+.card-main-person {
+    border: 1px solid black;
+}
+
+.btn-linkedin-card {
+    border-radius: 8px;
+    background-color: #0169D9;
+    height: 5vh;
+    color: white;
+    letter-spacing: 7px;
+    font-size: 22px;
+}
+
+
+.btn-github-card {
+    border-radius: 8px;
+    background-color: black;
+    height: 5vh;
+    color: white;
+    letter-spacing: 7px;
+    font-size: 22px;
+}
+
+.tamanho-font-habilidade {
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.list-group-size {
+    display: flex;
+    flex-direction: column;
+    height: 43vh;
+    overflow: auto;
+    justify-content: start;
+    width: 100%;
+}
+
+.border-color-red{
+  border:2px solid red;
+}
+
+
+.border-color-blue{
+    border:4px solid blue;
+  }

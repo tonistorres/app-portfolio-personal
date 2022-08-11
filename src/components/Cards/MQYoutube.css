@@ -1,0 +1,83 @@
+/* Componente Youtube */
+@media only screen and (min-device-width : 300px) and (max-device-width : 350px) {
+    .mediaY-300-350-img {
+        height: 25vh;
+        width: 97%;
+      }
+}
+
+
+@media only screen and (min-device-width : 351px) and (max-device-width : 399px) {
+    .mediaY-351-399-img {
+        height: 17vh;
+        width: 97%;
+        
+    }
+}
+
+@media only screen and (min-device-width : 531px) and (max-device-width : 570px) {
+    .mediaY-531-599-img {
+        height: 37vh;
+        width:97%;
+        /* border: 3px solid violet; */
+
+    }
+}
+
+@media only screen and (min-device-width : 571px) and (max-device-width : 599px) {
+    .mediaY-571-599-img {
+        height: 37vh;
+        width: 91%;
+        /* border: 3px solid chocolate; */
+
+    }
+}
+
+@media only screen and (min-device-width : 600px) and (max-device-width : 715px) {
+    .mediaY-600-715-img {
+        height: 42vh;
+        width: 88%;
+        /* border: 3px solid red; */
+
+    }
+}
+
+@media only screen and (min-device-width :716px) and (max-device-width : 767px) {
+    .mediaY-716-767-img {
+        height: 42vh;
+        width: 84%;
+        /* border: 3px solid blue; */
+
+    }
+}
+
+
+
+@media only screen and (min-device-width :768px) and (max-device-width : 1028px) {
+    .mediaY-768-1028-img {
+        height: 29vh;
+        width: 90%;
+        /* border: 3px solid blue; */
+
+    }
+}
+
+
+@media only screen and (min-device-width :1029px) and (max-device-width : 1100px) {
+    .mediaY-1029-1100-img {
+        height: 29vh;
+        width: 90%;
+        /* border: 3px solid blue; */
+
+    }
+}
+
+
+@media only screen and (min-device-width :1111px) and (max-device-width : 2300px) {
+    .mediaY-1111-1920-img {
+        height: 49vh;
+        width: 90%;
+        
+
+    }
+}

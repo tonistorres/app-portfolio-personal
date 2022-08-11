@@ -1,0 +1,56 @@
+/* Componente Habilidades */
+@media only screen and (min-device-width : 531px) and (max-device-width : 570px) {
+    .mediaH-531-599-img {
+        height: 37vh;
+        width:97%;
+        /* border: 3px solid violet; */
+
+    }
+}
+
+@media only screen and (min-device-width : 571px) and (max-device-width : 599px) {
+    .mediaH-571-599-img {
+        height: 37vh;
+        width: 91%;
+        /* border: 3px solid chocolate; */
+
+    }
+}
+
+@media only screen and (min-device-width : 600px) and (max-device-width : 715px) {
+    .mediaH-600-715-img {
+        height: 42vh;
+        width: 88%;
+        /* border: 3px solid red; */
+
+    }
+}
+
+@media only screen and (min-device-width :716px) and (max-device-width : 767px) {
+    .mediaH-716-767-img {
+        height: 42vh;
+        width: 84%;
+        /* border: 3px solid blue; */
+
+    }
+}
+
+
+@media only screen and (min-device-width :768px) and (max-device-width : 1028px) {
+    .mediaH-768-1028-img {
+        height: 42vh;
+        width: 90%;
+        /* border: 3px solid blue; */
+
+    }
+}
+
+
+@media only screen and (min-device-width :1029px) and (max-device-width : 1920px) {
+    .mediaH-1029-1920-img {
+        height: 42vh;
+        width: 90%;
+        /* border: 3px solid blue; */
+
+    }
+}

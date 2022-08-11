@@ -1,0 +1,174 @@
+/* Componente imagem 03 */
+@media only screen and (min-device-width : 300px) and (max-device-width : 350px) {
+    .media-300-350-img {
+        height: 17vh;
+        width: 35%;
+        /* border: 5px solid red; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width : 351px) and (max-device-width : 399px) {
+    .media-351-399-img {
+        height: 16vh;
+        width: 39%;
+        /* border: 1px solid orange; */
+        border-radius: 50%;
+    }
+}
+
+
+@media only screen and (min-device-width : 400px) and (max-device-width : 450px) {
+    .media-400-450-img {
+        height: 25vh;
+        width: 52%;
+        /* border: 5px solid blue; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width : 451px) and (max-device-width : 499px) {
+    .media-451-499-img {
+        height: 25vh;
+        width: 49%;
+        /* border: 5px solid violet; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width : 500px) and (max-device-width : 561px) {
+    .media-540-561-img {
+        height: 32vh;
+        width: 53%;
+        /* border: 8px solid red; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width : 562px) and (max-device-width : 599px) {
+    .media-562-599-img {
+        height: 35vh;
+        width: 50%;
+        /* border: 3px solid gold; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width : 600px) and (max-device-width : 629px) {
+    .media-600-629-img {
+        height: 38vh;
+        width: 51%;
+        /* border: 3px solid black; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width : 630px) and (max-device-width : 680px) {
+    .media-630-650-img {
+        height: 39vh;
+        width: 50%;
+        /* border: 1px solid red; */
+        border-radius: 50%;
+    }
+}
+
+
+@media only screen and (min-device-width :681px) and (max-device-width : 715px) {
+    .media-681-767-img {
+        height: 42vh;
+        width: 45%;
+        /* border: 1px solid blue; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width :716px) and (max-device-width : 767px) {
+    .media-681-767-img {
+        height: 38vh;
+        width: 43%;
+        /* border: 1px solid green; */
+        border-radius: 50%;
+    }
+}
+
+
+@media only screen and (min-device-width :768px) and (max-device-width : 901px) {
+    .media-768-901-img {
+        height: 20vh;
+        width: 45%;
+        /* border: 1px solid green; */
+        border-radius: 50%;
+    }
+}
+
+@media only screen and (min-device-width :902px) and (max-device-width : 991px) {
+    .media-902-991-img {
+        height: 22vh;
+        width: 40%;
+        /* border: 1px solid green; */
+        border-radius: 50%;
+    }
+}
+
+ 
+@media only screen and (min-device-width :992px) and (max-device-width : 1112px) {
+    .media-992-1112-img {
+        height: 22vh;
+        width: 34%;
+        border-radius: 50%;
+    }
+} 
+
+
+@media only screen and (min-device-width :1113px) and (max-device-width : 1199px) {
+    .media-1113-1199-img {
+        height: 22vh;
+        width: 31%;
+        border-radius: 50%;
+    }
+} 
+
+
+@media only screen and (min-device-width :1200px) and (max-device-width : 1241px) {
+    .media-1200-1241-img {
+        height: 22vh;
+        width: 31%;
+        border-radius: 50%;
+    }
+} 
+
+
+@media only screen and (min-device-width :1242px) and (max-device-width : 1393px) {
+    .media-1242-1393-img {
+        height: 24vh;
+        width: 30%;
+        border-radius: 50%;
+    }
+} 
+
+
+@media only screen and (min-device-width :1394px) and (max-device-width : 1563px) {
+    .media-1394-1563-img {
+        height: 28vh;
+        width: 30%;
+        border-radius: 50%;
+    }
+} 
+
+
+@media only screen and (min-device-width :1564px) and (max-device-width : 1707px) {
+    .media-1564-1707-img {
+        height: 29vh;
+        width: 30%;
+        border-radius: 50%;
+    }
+} 
+
+
+@media only screen and (min-device-width :1708px) and (max-device-width : 1920px) {
+    .media-1708-1920-img {
+        height: 29vh;
+        width: 30%;
+        border-radius: 50%;
+    }
+} 

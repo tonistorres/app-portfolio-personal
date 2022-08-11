@@ -1,0 +1,11 @@
+
+.footer{
+  /*position: Podemos usar fixed, absolute e relative*/
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+  }
+
+  .bg-color-person {
+    background-color: #6C757D;    
+  }

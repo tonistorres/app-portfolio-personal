@@ -1,0 +1,10 @@
+.bg-color-person {    
+    background-color: #24292F;
+ }
+.custom-cl-white{
+    color: white;
+}
+ a:visited { color:#24292F }
+ a:link {
+    color: #555;
+  }

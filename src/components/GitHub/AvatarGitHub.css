@@ -1,0 +1,121 @@
+  @media (max-width: 648px) {
+    .p-sm-648-d-none {
+        display: none;
+      }
+   }
+
+   @media (max-width: 559px) {
+    .p-sm-559-d-none {
+        display: none;
+      }
+   }
+
+
+   @media (max-width: 415px) {
+    .p-sm-415-d-none {
+        display: none;
+      }
+   }
+
+   @media (max-width: 1265px) {
+    .p-sm-1265-d-none {
+        display: none;
+      }
+   }
+
+
+.table-thead{
+    border: 2px solid #24292F;
+    background-color: #24292F;
+    color: white;
+    text-align: center;
+}
+
+.table-tbody{
+    border: 5px solid red;
+    
+}
+.table-tbody-td{
+padding: 5px 5px;
+border: 0.5px solid #24292F;
+
+
+}
+
+.img-rad-50 {
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 240px;
+    width: 240px;
+}
+
+.img-teck-size{
+    height: 55px;
+    width: 55px;
+}
+
+.style-linkedin{
+    color: black;
+    font-size: 26px;
+}
+.style-user-git-hub{
+    font-size: 32px;
+}
+
+.style-login-git-hub{
+    font-size: 25px;
+    color:#999;
+}
+
+.style-bio-git-hub{
+    border: 2px solid#24292F;   
+    border-radius: 8px;
+    /* background-color: #6C757D; */
+    color: #24292F;
+    /* color: #24292F; */
+    padding: 5px 5px 5px 5px;
+}
+
+
+.bg-color-01{
+    background-color: white;
+    border-radius: 8px;
+    padding: 25px 25px;
+}
+
+.section-main{
+    background-color: whitesmoke;
+    padding: 10px 10px 10px 10px;
+}
+
+.section-location-jobs{
+    align-items: center;
+    /* background-color: #6C757D; */
+    border: 2px solid#24292F;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+}
+
+.section-sobre{
+    align-items: center;
+    background-color: #6C757D;
+    border: 2px solid#24292F;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+}
+
+.container-first-30{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 8px 8px 8px;
+}
